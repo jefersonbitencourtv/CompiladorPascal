@@ -1,3 +1,4 @@
  Isso foi falado no vídeo.
+ O tratamento de erros funciona muito bem para as declarações de variaveis e tipo de variavel.
 O tratamento de erros para as expressões não funciona de madeira adequada. Apresenta um erro, mas não foi eleborado um tipo de erro para cada situação
 Não consegui realizar a parte de gerar o código IR.
